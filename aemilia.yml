@@ -10,7 +10,7 @@ build:
         post_build:
             commands: []
     artifacts:
-        files: []
+        files: ['/dist']
         discardPaths: true
         baseDirectory: /
     cache:
